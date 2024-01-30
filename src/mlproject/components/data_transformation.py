@@ -65,7 +65,6 @@ class DataTransformation:
         try:
             train_df = pd.read_csv(train_path)
             test_df = pd.read_csv(test_path)
-            
             logging.info('Reading the train and test data')
             
             preprocessing_obj = self.get_transformer_obj()
