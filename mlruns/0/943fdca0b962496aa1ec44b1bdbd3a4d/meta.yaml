@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Manav/Projects/mlruns/0/943fdca0b962496aa1ec44b1bdbd3a4d/artifacts
+end_time: 1706619675641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 943fdca0b962496aa1ec44b1bdbd3a4d
+run_name: rebellious-hound-590
+run_uuid: 943fdca0b962496aa1ec44b1bdbd3a4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706619670054
+status: 3
+tags: []
+user_id: root
